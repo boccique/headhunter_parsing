@@ -1,2 +1,5 @@
-# demo123
- 
+A ​headhunter parsing program is designed to streamline the ​recruitment process by automating the extraction and analysis of relevant information from ​resumes or ​CVs. This program utilizes advanced ​technology such as natural language processing (NLP) and machine learning to extract key details like work experience, skills, education, and contact information from resumes in various formats.
+
+The main purpose of a headhunter parsing program is to save time and effort for recruiters or headhunters by eliminating the need for manual resume screening and data entry. By quickly scanning and parsing resumes, the program can create structured profiles or databases that recruiters can easily search and filter based on specific criteria. This enables recruiters to identify potential candidates more efficiently and make better-informed decisions.
+
+Overall, a headhunter parsing program improves the efficiency and effectiveness of the headhunting process, enabling recruiters to focus their time and attention on assessing the suitability of candidates instead of manually sifting through resumes.
