@@ -26,7 +26,10 @@ def get_links(text):
             url=f"https://hh.ru/search/resume?isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&search_period=0&order_by=relevance&filter_exp_period=all_time&relocation=living_or_relocation&text={text}&gender=unknown&page={page}",
             headers={"user-agent": ua.random}
         )
-
+        if data.status_code !=200:
+            continue
+        soup = BeautifulSoup(data.content, "lxml")
+        soup.find_all()
 
 
 
